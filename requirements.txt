@@ -1,3 +1,4 @@
-lighter-sdk
+lighter-py
 streamlit
 plotly
+pandas
