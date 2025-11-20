@@ -1,4 +1,6 @@
-lighter-py
+lighter-sdk
 streamlit
 plotly
 pandas
+websockets
+eth-account
